@@ -1,0 +1,14 @@
+<section id="resume">
+  <h2>Resume</h2>
+  <p>You can view or download my resume below:</p>
+
+  <!-- Preview Resume -->
+  <iframe src="resume.pdf" width="100%" height="600px" 
+          style="border:1px solid #ccc; border-radius:8px;">
+  </iframe>
+
+  <br><br>
+  <!-- Buttons -->
+  <a href="resume.pdf" target="_blank" class="btn">📄 View Fullscreen</a>
+  <a href="resume.pdf" download class="btn">⬇️ Download Resume</a>
+</section>
